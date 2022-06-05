@@ -34,7 +34,7 @@ regulating public utilities, where services are aimed at customer satisfaction i
 * Register for SAS OnDemand for Academics with SAS Profile credentials
 
 ### SAS® Visual Data Mining & Machine Learning (VDMML)
-* Open [SAS®Studio](https://auth.sas.com/) & login from your SAS® OnDemand for Academics (ODA) account
+* Open [SAS®Drive](https://auth.sas.com/) & login from your SAS® OnDemand for Academics (ODA) account
 * Click tab on the top left
 * Choose Explore and Visualize 
 * Import data in your local computer
