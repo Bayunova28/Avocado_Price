@@ -6,7 +6,7 @@
 * [Schema](#schema)
 
 ## Background
-<img src="https://github.com/Bayunova28/Iowa_Department_Avocado_Price/blob/master/images/iowa-cover.png" height="450" width="1100">
+<img src="https://github.com/Bayunova28/Iowa_Department_Avocado_Price/blob/master/images/iowa-avocado-cover.png" height="450" width="1100">
 
 <p align="justify">The Iowa Department of Commerce is an organization or trading company located in Des Moines, Iowa, United States. The organization was created to 
 coordinate and manage the various regulatory, service, and licensing functions of the state related to business or trade in the state. The department is 
