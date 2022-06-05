@@ -55,10 +55,10 @@ regulating public utilities, where services are aimed at customer satisfaction i
 
 ## Schema
 * `Date` - The date of the observation
-* `AveragePrice` - the average price of a single avocado
-* `type` - conventional or organic
-* `year` - the year
-* `Region` - the city or region of the observation
+* `AveragePrice` - The average price of a single avocado
+* `type` - Conventional or organic
+* `year` - The year
+* `Region` - The city or region of the observation
 * `Total Volume` - Total number of avocados sold
 * `4046` - Total number of avocados with PLU 4046 sold
 * `4225` - Total number of avocados with PLU 4225 sold
