@@ -1,4 +1,8 @@
 # Iowa Department Avocado Price
+* Instructor :  <b>Iwan Prasetiawan S.KOM., M.M..</b>
+* Place : <b>Multimedia Nusantara University</b>
+* Course : <b>Big Data Analytics II</b>
+
 ## Table of Contents
 * [Background](#background)
 * [Requirement](#requirement)
