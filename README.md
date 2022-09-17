@@ -10,25 +10,9 @@
 * [Schema](#schema)
 
 ## Background
-<img src="https://github.com/Bayunova28/Iowa_Department_Avocado_Price/blob/master/images/iowa-avocado-cover.png" height="450" width="1100">
+<img src="https://github.com/Bayunova28/Avocado_Price/blob/master/images/cover.jpg" height="450" width="1100">
 
-<p align="justify">The Iowa Department of Commerce is an organization or trading company located in Des Moines, Iowa, United States. The organization was created to 
-coordinate and manage the various regulatory, service, and licensing functions of the state related to business or trade in the state. The department is 
-administratively organized into several divisions, namely banking, credit union, utilities, insurance and agriculture. Within the banking division, the organization 
-regulates and oversees various state banks, regulates loans, such as corporate loan industry, mortgage bankers, mortgage brokers, real estate closing agents, corporate
-debt management, financial services companies and pending deposit services businesses and performs other tasks given to the division by legal institutions and the Act.
-In addition, the division manages and coordinates the activities of professional licensing boards, such as the engineering and land surveying board, Iowa accounting
-board, real estate commission, architectural examiner and interior design examiner. The credit union division is in charge of regulating and overseeing the operations
-of the credit union or providing financial services, such as share capital within a state that are coordinated by the credit union review board.<p> 
-  
-<p align="justify">In addition, the division carries out other tasks assigned by legal institutions and laws. The insurance division is in charge of regulating and 
-overseeing the conduct of the insurance business in the state and enforcing laws that have been made by the United States government, particularly under the Iowa 
-government. The agriculture division is in charge of supervising and regulating as well as serving permits and regulations for the business of selling vegetables and 
-fruits as well as food ingredients. In the five divisions, to organize and manage an organization, valid data is needed in making decisions from each division, especially
-the agriculture division. The distribution or sale of this type of avocado must have a lot of data regarding the sale of these products and there needs to be effective 
-data processing from the four divisions so that they are stored properly and not mixed with other divisions. In processing this data, it is necessary to apply 
-classification so that the agriculture division can distinguish between the types of avocados that customers want. The utilities division is in charge of supervising and 
-regulating public utilities, where services are aimed at customer satisfaction in consuming goods and services.<p>
+<p align="justify">HAB is the only avocado organization that equips the entire global industry for success by collecting, focusing and distributing investments to maintain and expand demand for avocados in the United States. HAB provides the industry with consolidated supply and market data, conducts nutrition research, educates health professionals, and brings people together from all corners of the industry to collectively work towards growth that benefits everyone. The organization also collects and reallocates funds to California and importer associations to benefit specific countries of origin in promoting their avocado brands to customers and consumers across the United States.<p>
   
 ## Requirement
 ### SAS® OnDemand for Academics (ODA) Registration
