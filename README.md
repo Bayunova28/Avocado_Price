@@ -30,7 +30,7 @@
   
 ## Inspiration
 * Classification of avocado types from Agriculture Division
-* Using 2 machine learning algorithms and model selection
+* Using 2 algorithms and model selection
   
 ### Gradient Boosting
 <img src="https://github.com/Bayunova28/Iowa_Department_Avocado_Price/blob/master/images/gradient-boosting-model.png" height="600" width="1100">
