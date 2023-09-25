@@ -41,7 +41,7 @@
 ### Model Selection & Scoring
 <img src="https://github.com/Bayunova28/Iowa_Department_Avocado_Price/blob/master/images/model-selection.png" height="600" width="1100">
 
-## Schema
+## Features
 * `Date` - The date of the observation
 * `AveragePrice` - The average price of a single avocado
 * `type` - Conventional or organic
